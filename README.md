@@ -19,6 +19,10 @@ Desafio de data science Semantix
 
    - ``` pip install -r requirements```
 
+## Results
+
+- [Notebook-here](https://github.com/Alro10/data-science-bank-teste/blob/master/src/Analysis.ipynb)
+
 ## References
 
 - https://core.ac.uk/download/pdf/55616194.pdf
